@@ -1,0 +1,15 @@
+{
+  "name": "Vinicius Santana — Linguist Profile",
+  "short_name": "Vinicius Santana",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#0B1220",
+  "icons": [
+    {
+      "src": "./assets/icons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
